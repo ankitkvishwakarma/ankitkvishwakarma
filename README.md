@@ -1,8 +1,9 @@
-![Banner](./banner1.png)
+
 
 # 👋 Hello, I'm Ankit Kumar Vishwakarma
 
 🎓 MCA Student | 🚀 Full Stack Developer | 🧠 AI & Web Enthusiast  
+![Banner](./banner1.png)
 
 ---
 

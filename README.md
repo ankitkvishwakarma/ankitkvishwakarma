@@ -4,6 +4,7 @@
 
 🎓 MCA Student | 🚀 Full Stack Developer | 🧠 AI & Web Enthusiast  
 ![Banner](./banner1.png)
+![Profile Views](https://komarev.com/ghpvc/?username=ankitkvishwakarma&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 

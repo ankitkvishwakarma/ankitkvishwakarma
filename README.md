@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ankit Kumar Vishwakarma
 
-🎓 MCA Student | 🚀 MERN Stack Developer | 🧠 AI & Web Enthusiast
+🎓 MCA Student | 🚀 Full Stack Developer | 🧠 AI & Web Enthusiast
 
 ---
 
@@ -36,5 +36,5 @@ I am a passionate full-stack developer, building scalable web applications with 
 ### 🔗 Let's Connect:
 
 [![Portfolio](https://portfolio-chi-wine-33.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](www.linkedin.com/in/ankitkumarvishwakarma-4a86561b1)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/ankitkvishwakarma)

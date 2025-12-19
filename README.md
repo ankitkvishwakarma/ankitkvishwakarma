@@ -1,4 +1,4 @@
-![Banner](./ChatGPT Image Dec 19, 2025, 02_00_32 PM.png)
+![Banner](./banner.png)
 
 # 👋 Hello, I'm Ankit Kumar Vishwakarma
 

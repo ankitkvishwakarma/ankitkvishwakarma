@@ -1,74 +1,218 @@
+<div align="center">
 
+# 👋 Hi, I'm Ankit Kumar Vishwakarma
 
-# 👋 Hello, I'm Ankit Kumar Vishwakarma
+### 🚀 Full Stack Developer | MERN Stack | AI & Web Enthusiast
 
-🎓 MCA Student | 🚀 Full Stack Developer | 🧠 AI & Web Enthusiast  
-![Banner](./banner1.png)
-![Profile Views](https://komarev.com/ghpvc/?username=ankitkvishwakarma&label=Ankit%20Kumar%20Vishwakarma&color=0e75b6&style=flat)
+<p>
+  Building scalable, production-ready web applications with
+  clean UI, secure backends, and modern technologies.
+</p>
+
+<p>
+  <a href="https://portfolio-chi-wine-33.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0e75b6?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ankitkumarvishwakarma-4a86561b1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ankitkvishwakarma">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<img src="./banner1.png" width="100%" />
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=ankitkvishwakarma&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-## 🔥 About Me
+## 👨‍💻 About Me
 
-I am a passionate **Full Stack Developer** who loves building scalable, real-world web applications using modern technologies.  
-I focus on **clean UI**, **secure backend systems**, and **performance-optimized solutions**.
+I'm a **Full Stack Developer** focused on building scalable and
+production-ready web applications using modern technologies.
 
-- 💻 **Tech Stack:** React, Node.js, Express, MongoDB, Next.js, Firebase, Tailwind CSS  
-- 🧰 **Tools:** GitHub, Vercel, Docker, Postman, VS Code  
-- 🌱 **Currently Learning:** WebSockets, GraphQL  
-- 🎯 **Goal:** Build production-ready applications and grow as a software engineer  
+I enjoy working across the complete development lifecycle — from
+designing responsive interfaces to building secure APIs, database
+systems, authentication flows and deployment pipelines.
+
+### 💡 What I Focus On
+
+- ⚛️ Modern and responsive frontend development
+- 🟢 Node.js & Express backend development
+- 🍃 MongoDB database architecture
+- 🔐 Authentication & authorization
+- 🔌 REST APIs & real-time communication
+- 💳 Payment gateway integrations
+- 🚀 Deployment and production workflows
+- 🧠 DSA, System Design & AI Engineering
+
+> 🎓 MCA Student | 🚀 Full Stack Developer | 🧠 AI & Web Enthusiast
 
 ---
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-000?style=flat-square&logo=tailwind-css)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
+
+### Database & Services
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### Tools & Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 **GreenBasket – Grocery Website**  
-Full-stack MERN application with authentication, cart, orders & admin panel.  
+### 🛒 GreenBasket — Full Stack Grocery E-Commerce
 
-🔹 **Audio Recorder App**  
-Live voice recording with download support using Node.js, MongoDB & Cloudinary.  
+> Production-focused grocery e-commerce platform built around a
+> complete shopping and order management experience.
 
-🔹 **College Campus Placement & Interview Prep**  
-AI-assisted interview preparation platform built with Next.js & Firebase.  
+**Highlights**
 
-🔹 **E-commerce UI**  
-Modern, responsive UI concept for a fashion e-commerce website.
+- 🔐 Authentication & role-based authorization
+- 🛍️ Product, category, cart and wishlist workflows
+- 📦 Order management with stock validation
+- 💳 Razorpay payment & COD flow
+- 🎟️ Coupons and product reviews
+- 📧 Email and invoice workflows
+- 🚚 Delivery management
+- 📊 Admin analytics
 
----
-
-## 📊 GitHub Stats
-
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitkvishwakarma&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkvishwakarma&layout=compact&theme=tokyonight)
+**Tech:** React • Node.js • Express • MongoDB • Redux Toolkit • Razorpay
 
 ---
 
-## 🐍 Contribution Snake
+### 📊 Tradescape Risk Dashboard
 
-![Snake animation](https://github.com/ankitkvishwakarma/ankitkvishwakarma/blob/output/github-contribution-grid-snake.svg)
+> Professional trader risk dashboard focused on performance,
+> drawdown and portfolio visibility.
+
+**Highlights**
+
+- Account Overview
+- Trading Performance
+- Risk Monitor
+- Drawdown & Daily Loss
+- Equity Curve
+- Asset Performance
+- Trade History & Filtering
+
+**Tech:** React • Vite • Tailwind CSS • JavaScript • Recharts
 
 ---
 
-## 🔗 Let's Connect
+### 🎓 College Campus Placement & Interview Prep
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://portfolio-chi-wine-33.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankitkumarvishwakarma-4a86561b1)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ankitkvishwakarma)
+> Full-stack platform designed to support students with placement
+> workflows and interview preparation.
+
+**Tech:** Next.js • React • Node.js • MongoDB • Firebase • Socket.io
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+### 🎙️ Audio Recorder Application
+
+> Real-time voice recording application with cloud-based media
+> storage and download support.
+
+**Tech:** Node.js • MongoDB • Cloudinary
+
+---
+
+### 🛍️ E-Commerce UI
+
+> Modern and responsive e-commerce interface focused on clean UI,
+> reusable components and user experience.
+
+**Tech:** React • Tailwind CSS • JavaScript
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ankitkvishwakarma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  height="170"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkvishwakarma&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github.com/ankitkvishwakarma/ankitkvishwakarma/blob/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Python
+   ↓
+DSA
+   ↓
+Mathematics for AI
+   ↓
+Data Analysis
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Generative AI
+   ↓
+AI Deployment

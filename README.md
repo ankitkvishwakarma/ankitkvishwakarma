@@ -256,37 +256,43 @@ product and stock visibility.
 
 ---
 
-# 🐍 Contribution Activity
+# 🔗 Let's Connect
 
 <div align="center">
 
-<img
-  src="https://github.com/ankitkvishwakarma/ankitkvishwakarma/blob/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-/>
+<p>
+  I'm always open to discussing new projects, opportunities,
+  collaboration, and interesting ideas.
+</p>
+
+<a href="https://new-portfolio-abex.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Visit%20Website-0e75b6?style=for-the-badge&logo=vercel&logoColor=white"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/ankitkumarvishwakarma-4a86561b1">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
+
+<a href="https://github.com/ankitkvishwakarma">
+  <img
+    src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
 
 </div>
 
 ---
 
-# 🌱 Currently Learning
+<div align="center">
 
-I'm currently expanding my development skills beyond full-stack
-development and moving toward **AI Engineering**.
+### 💙 Thanks for visiting my profile!
 
-```text
-Python
-   ↓
-Data Structures & Algorithms
-   ↓
-Mathematics for AI
-   ↓
-Data Analysis
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-Generative AI
-   ↓
-AI Deployment
+**Building. Learning. Improving.**
+
+⭐ If you find my work useful, consider giving my repositories a star.
+
+</div>

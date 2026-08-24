@@ -25,7 +25,9 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=ankitkvishwakarma&label=Profile%20Views&color=0e75b6&style=flat" />
+<img
+  src="https://komarev.com/ghpvc/?username=ankitkvishwakarma&label=Profile%20Views&color=0e75b6&style=flat"
+/>
 
 </div>
 
@@ -33,59 +35,77 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** focused on building scalable and
+I'm a **Full Stack Developer** focused on building scalable,
 production-ready web applications using modern technologies.
 
-I enjoy working across the complete development lifecycle — from
-designing responsive interfaces to building secure APIs, database
-systems, authentication flows and deployment pipelines.
+I work across the complete development lifecycle — from designing
+responsive interfaces to developing secure REST APIs, database
+architecture, authentication systems, integrations and deployment.
 
-### 💡 What I Focus On
+### 💡 What I Work With
 
-- ⚛️ Modern and responsive frontend development
-- 🟢 Node.js & Express backend development
-- 🍃 MongoDB database architecture
-- 🔐 Authentication & authorization
-- 🔌 REST APIs & real-time communication
-- 💳 Payment gateway integrations
-- 🚀 Deployment and production workflows
-- 🧠 DSA, System Design & AI Engineering
+- ⚛️ Modern React & Next.js applications
+- 🟢 Node.js & Express.js backend development
+- 🍃 MongoDB & PostgreSQL database systems
+- 🔐 JWT authentication & role-based authorization
+- 🔌 REST APIs & real-time communication with Socket.io
+- 💳 Razorpay payment integration
+- ☁️ Cloudinary & Firebase integrations
+- 📊 Data visualization with Recharts
+- 🎨 Responsive UI with Tailwind CSS
+- 🚀 Deployment with Vercel, Render & AWS
 
-> 🎓 MCA Student | 🚀 Full Stack Developer | 🧠 AI & Web Enthusiast
+### 🎓 Background
+
+- 🎓 MCA Student
+- 🚀 Full Stack Developer
+- 🧠 AI & Web Enthusiast
+- 💻 5+ Practical Projects
+- 📚 Currently improving DSA, System Design & AI Engineering
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technology Stack
 
-### Frontend
+## 🎨 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-### Backend
+## ⚙️ Backend
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-### Database & Services
+## 🗄️ Database & Services
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### Tools & Deployment
+## 🔗 Integrations
+
+<p>
+  <img src="https://img.shields.io/badge/Razorpay-3395FF?style=for-the-badge&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email%20Services-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
+
+## 🧰 Tools & Deployment
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -94,39 +114,48 @@ systems, authentication flows and deployment pipelines.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 GreenBasket — Full Stack Grocery E-Commerce
+## 🛒 GreenBasket — Full Stack Grocery E-Commerce
 
-> Production-focused grocery e-commerce platform built around a
-> complete shopping and order management experience.
+A production-focused grocery e-commerce platform designed around
+real-world shopping, order and administration workflows.
 
-**Highlights**
+### Key Features
 
 - 🔐 Authentication & role-based authorization
-- 🛍️ Product, category, cart and wishlist workflows
-- 📦 Order management with stock validation
-- 💳 Razorpay payment & COD flow
-- 🎟️ Coupons and product reviews
-- 📧 Email and invoice workflows
+- 🛍️ Product & category management
+- 🛒 Cart & wishlist
+- ⭐ Product reviews
+- 📦 Order management
+- 📊 Stock validation
+- 💳 Razorpay payment integration
+- 💵 Cash on Delivery
+- 🎟️ Coupon system
+- 📧 Email workflows
+- 🧾 Invoice generation
 - 🚚 Delivery management
-- 📊 Admin analytics
+- 📈 Admin analytics
 
-**Tech:** React • Node.js • Express • MongoDB • Redux Toolkit • Razorpay
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB`
+`Redux Toolkit` `Razorpay` `JWT` `Tailwind CSS`
 
 ---
 
-### 📊 Tradescape Risk Dashboard
+## 📊 Tradescape Risk Dashboard
 
-> Professional trader risk dashboard focused on performance,
-> drawdown and portfolio visibility.
+A professional trader risk dashboard focused on making account
+health and trading performance easy to understand.
 
-**Highlights**
+### Key Features
 
 - Account Overview
 - Trading Performance
@@ -134,40 +163,82 @@ systems, authentication flows and deployment pipelines.
 - Drawdown & Daily Loss
 - Equity Curve
 - Asset Performance
-- Trade History & Filtering
+- Trade History
+- Filtering & analytics
+- Responsive dashboard UI
 
-**Tech:** React • Vite • Tailwind CSS • JavaScript • Recharts
+**Tech Stack**
 
----
-
-### 🎓 College Campus Placement & Interview Prep
-
-> Full-stack platform designed to support students with placement
-> workflows and interview preparation.
-
-**Tech:** Next.js • React • Node.js • MongoDB • Firebase • Socket.io
+`React` `Vite` `JavaScript` `Tailwind CSS`
+`Recharts` `Lucide React`
 
 ---
 
-### 🎙️ Audio Recorder Application
+## 🎓 College Placement System
 
-> Real-time voice recording application with cloud-based media
-> storage and download support.
+A full-stack platform designed around student placement,
+recruitment workflows and communication.
 
-**Tech:** Node.js • MongoDB • Cloudinary
+### Key Features
+
+- Student workflow management
+- Placement management
+- Company/recruiter workflows
+- Student profiles
+- Real-time communication
+- Responsive frontend
+- Firebase integration
+
+**Tech Stack**
+
+`Next.js` `React` `Node.js` `MongoDB`
+`Firebase` `Socket.io`
 
 ---
 
-### 🛍️ E-Commerce UI
+## 👥 CRM Platform
 
-> Modern and responsive e-commerce interface focused on clean UI,
-> reusable components and user experience.
+A business-focused CRM application built around reusable UI
+components, REST APIs and practical business workflows.
 
-**Tech:** React • Tailwind CSS • JavaScript
+### Key Features
+
+- Responsive dashboard
+- Reusable React architecture
+- Business data workflows
+- REST API integration
+- MongoDB integration
+- Production deployment
+
+**Tech Stack**
+
+`React` `Tailwind CSS` `Node.js`
+`Express.js` `MongoDB` `REST API`
 
 ---
 
-## 📈 GitHub Activity
+## 📦 Inventory Management System
+
+A retail-oriented inventory management application designed for
+product and stock visibility.
+
+### Key Features
+
+- Product management
+- Stock management
+- Inventory visibility
+- Admin-oriented workflows
+- Responsive interface
+- REST API architecture
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js`
+`MongoDB` `Tailwind CSS` `REST API`
+
+---
+
+# 📈 GitHub Statistics
 
 <div align="center">
 
@@ -185,7 +256,7 @@ systems, authentication flows and deployment pipelines.
 
 ---
 
-## 🐍 Contribution Activity
+# 🐍 Contribution Activity
 
 <div align="center">
 
@@ -198,12 +269,15 @@ systems, authentication flows and deployment pipelines.
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
+
+I'm currently expanding my development skills beyond full-stack
+development and moving toward **AI Engineering**.
 
 ```text
 Python
    ↓
-DSA
+Data Structures & Algorithms
    ↓
 Mathematics for AI
    ↓
